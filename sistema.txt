@@ -1,0 +1,9 @@
+El comando uname -a muestra lo siguiente:
+Linux codespaces-dbf9c5 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+El comando whoami muestra lo siguiente:
+codespace
+
+Conocer la información del sistema permite supervisar 
+el rendimiento, detectar fallos y administrar los recursos 
+del servidor de manera eficiente, garantizando su correcto funcionamiento.

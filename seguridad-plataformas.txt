@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y cambiarlas periódicamente.
+2. Implementar autenticación de usuarios para controlar el acceso a la plataforma.
+3. Proteger los datos personales mediante políticas de privacidad y cifrado.
+4. Mantener el sistema y las aplicaciones actualizadas para corregir vulnerabilidades.
+5. Realizar copias de seguridad periódicas para evitar la pérdida de información.

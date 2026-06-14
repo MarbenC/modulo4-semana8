@@ -1,0 +1,8 @@
+1. Utilizar contraseñas seguras y únicas para cada cuenta, 
+combinando letras, números y símbolos
+
+2. Mantener actualizado el sistema operativo y las 
+aplicaciones para corregir vulnerabilidades de seguridad.
+
+3. No abrir enlaces ni archivos sospechosos provenientes 
+de correos electrónicos o mensajes de remitentes desconocidos.
